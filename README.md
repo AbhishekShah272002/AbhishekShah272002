@@ -1,4 +1,16 @@
-Hi 😊, I am Abhishek Shah
+# 💫 Hi 👋, I'm Abhishek Shah
+**Python || AI || Data Science **
+
+Email Me 👉 ✉️ **abhishek27shah@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 **I’m currently working on:** Myself 
+- 🌱 **I’m currently learning:** AI
+- 👯 **I’m looking to collaborate on:** Field of data
+- 💬 **Ask me about:** Collaboration, Tech Support
+- 📫 **How to reach me:** abhishek27shah@gmail.com
+- 😄 **Pronouns:** Abhi
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-shah272002) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhishek27shah@gmail.com) 
 
@@ -12,13 +24,13 @@ Hi 😊, I am Abhishek Shah
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AbhishekShah272002&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AbhishekShah272002&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=AbhishekShah272002&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
