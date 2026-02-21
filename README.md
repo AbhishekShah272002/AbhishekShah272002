@@ -4,7 +4,7 @@
 Email Me 👉 ✉️ **abhishek27shah@gmail.com** For Collaboration/Project or Anything Else. 😊😊
  
 - 🔭 **I’m currently working on:** Myself 
-- 🌱 **I’m currently learning:** AI
+- 🌱 **I’m currently learning:** AI/ML
 - 👯 **I’m looking to collaborate on:** Field of data
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** abhishek27shah@gmail.com
