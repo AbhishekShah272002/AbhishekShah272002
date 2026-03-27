@@ -28,7 +28,7 @@ Email Me 👉 ✉️ **abhishek27shah@gmail.com** For Collaboration/Project or A
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AbhishekShah272002&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=AbhishekShah272002&theme=radical&no-frame=false&no-bg=true&margin-w=4) 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AbhishekShah272002&theme=nightowl&hide_border=true&include_all_commits=true&count_private=false)<br/>
